@@ -18,47 +18,31 @@ Terraform • OpenTofu • AWS CDK • Bash • PowerShell • GitHub Actions
 Microsoft 365 • Entra ID • Intune • Microsoft Defender • Conditional Access
 
 **Infrastructure & Networking**  
-Linux • Windows • TCP/IP • DNS • VPN • Firewalls • SFTP • Identity & Access Management
+Linux • Windows • TCP/IP • DNS • VPN • Firewalls • Identity & Access Management
 
-**AWS Services**  
-EC2 • S3 • IAM • VPC • Route 53 • CloudFront • AWS WAF • Transfer Family • API Gateway • Lambda
+**AWS**  
+VPC • EC2 • S3 • IAM • Lambda • CloudWatch
 
 ## 🛠️ What I Work On
 
 - Cloud infrastructure architecture and implementation
 - Infrastructure as Code and deployment automation
 - Secure cloud networking and remote access
-- Microsoft 365, Entra ID, Intune, and endpoint security
+- Microsoft cloud administration and endpoint management
 - Cloud security, hardening, and access control
 - Linux infrastructure and operational automation
-- Managed file-transfer architectures
 - Infrastructure troubleshooting and root-cause analysis
 
 ## 🚀 Portfolio Projects
 
-I'm currently turning selected engineering experience into **sanitized, reusable technical labs and case studies** that demonstrate architecture, implementation, testing, security, and troubleshooting.
+I'm building a set of **independent personal labs** to demonstrate infrastructure design, Infrastructure as Code, CI/CD, security practices, testing, and documentation.
 
-### AWS Edge Security & Global Routing Lab
-**Route 53 • CloudFront • AWS WAF • Geo-routing • Rate limiting • Infrastructure as Code**
+### Terraform AWS CI/CD Lab
+**Terraform • AWS • GitHub Actions • OIDC • TFLint • Checkov**
 
-A practical AWS edge architecture lab covering global routing, CDN delivery, web application firewall controls, rate limiting, geo-based behavior, testing, and cost considerations.
+A standalone personal lab demonstrating secure Terraform deployment to AWS using remote state, GitHub Actions, short-lived AWS authentication, code validation, linting, security scanning, plan review, and controlled deployment.
 
-### Secure Managed SFTP Architecture on AWS
-**AWS Transfer Family • S3 • IAM • Networking • Automation**
-
-A secure managed file-transfer architecture demonstrating identity, storage, networking, automation, operational controls, and scalable SFTP design.
-
-### AWS Infrastructure with OpenTofu
-**VPC • EC2 • IAM • Security Groups • IaC • CI/CD**
-
-A production-style Infrastructure as Code project demonstrating reusable cloud infrastructure, secure defaults, version control, and automated deployment.
-
-### Microsoft Cloud Security Lab
-**Microsoft 365 • Entra ID • Intune • Defender • Conditional Access**
-
-A practical lab focused on identity, endpoint management, device security, application protection, and Microsoft cloud security controls.
-
-> Detailed repositories and architecture documentation are being added progressively.
+> Additional independent projects will be added progressively.
 
 ## 🎯 Current Focus
 
@@ -84,4 +68,4 @@ I prefer solutions that are:
 
 ### Next up
 
-I'm currently building out the public projects above and a personal cloud engineering portfolio website. Each project will include architecture diagrams, implementation notes, security considerations, testing, and lessons learned.
+I'm currently building the Terraform AWS CI/CD lab and my personal cloud engineering portfolio website. The project will include architecture documentation, implementation notes, security considerations, automated validation, testing, and lessons learned.
